@@ -1,8 +1,8 @@
 # my-first-repo
 
-Welcom to my first GitHub repository!
+Welcome to my first GitHub repository!
 
-This project is a simple exmaple to learn Git and GitHub.
+This project is a simple example to learn Git and GitHub.
 
 ## Getting Started
 
@@ -10,6 +10,6 @@ This project is a simple exmaple to learn Git and GitHub.
 2. Make your changes
 3. Submit a pull request
 
-## Contributig
+## Contributing
 
-Feel free to open issues and pull requets.
+Feel free to open issues and pull requests.
